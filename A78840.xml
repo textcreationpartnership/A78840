@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties last propositions to the Commissioners at the treaty, to be communicated to His two Houses of Parliament assembled at Westminster; declaring His royal assent to sign the propositions, and to unite Himself with His two houses, for the concluding of a safe and present peace. And His proclamation thereupon, published by his Majesites special command, and dated from Newport 28. Octob. 1648. With the votes of both houses concerning the King; and the proposals of the Lord Gen. Fairfax, touching the setling of the kingdom, and disbanding part of the army. Agreed upon by His Excellency, and the Councell of War, and presented to the Parliaments commissioners on Saturday last, at the treaty at St. Albanes between the Parliament and army.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78840</idno><idno type="EEBO-CITATION">99864833</idno>
+  <idno type="VID">162367</idno>
+  <idno type="EEBO-PROQUEST">2248538757</idno>
+  
+            <idno type="STC">Wing C2377</idno>
+            <idno type="STC">Thomason E469_12</idno>
+            <idno type="STC">ESTC R205460</idno>
+            <idno type="PROQUEST">99864833</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864833e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162367)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E469[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties last propositions to the Commissioners at the treaty, to be communicated to His two Houses of Parliament assembled at Westminster; declaring His royal assent to sign the propositions, and to unite Himself with His two houses, for the concluding of a safe and present peace. And His proclamation thereupon, published by his Majesites special command, and dated from Newport 28. Octob. 1648. With the votes of both houses concerning the King; and the proposals of the Lord Gen. Fairfax, touching the setling of the kingdom, and disbanding part of the army. Agreed upon by His Excellency, and the Councell of War, and presented to the Parliaments commissioners on Saturday last, at the treaty at St. Albanes between the Parliament and army.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Rishton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains a daily journal, dated at end Newport Octob. 28. 1648, describing Charles I's actions during the the preceeding week.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Religious asspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162367:1"/>
+            <p>His Majesties last PROPOSITIONS TO The <hi>Commissioners</hi> at the Treaty, to be communicated to His two Houses of <hi>Parliament</hi> assembled at <hi>Westminster;</hi> Declaring His Royal Assent to sign the Propositions, and to unite Himself with His two Houses, for the conclu<g ref="char:EOLhyphen"/>ding of a safe and present Peace. And His Proclamation thereupon, Published by his Majesties special Command, and <hi>Dated from</hi> Newport 28. <hi>Octob.</hi> 1648. With the Votes of both <hi>Houses</hi> concerning the <hi>King;</hi> And the Proposals of the Lord Gen. <hi>Fairfax,</hi> touching the set<g ref="char:EOLhyphen"/>ling of the <hi>Kingdom,</hi> and disbanding part of the <hi>Army. AGreed upon by His Excellency, and the Councell of War, and presented to the Parliaments Commissioners on Sa<g ref="char:EOLhyphen"/>turday last, at the Treaty at St.</hi> Albanes <hi>between the Parlia<g ref="char:EOLhyphen"/>ment and Army.</hi>
+            </p>
+            <figure>
+               <figDesc>crowned blazon or coat of arms of the British royal family</figDesc>
+               <head>
+                  <q>DIEV ET MON DROIT</q>
+               </head>
+               <p>C. R.</p>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>LONDON, Printed for R. RISHTON, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:162367:2"/>
+            <pb n="1" facs="tcp:162367:2"/>
+            <head>JOYFULL NEVVES FOR ENGLAND FROM The <hi>Kings most Excellent Maiesty,</hi> and the <hi>Parliaments Commissioners</hi> for the <hi>Treaty;</hi> Declaring their unanimous Proceedings, and Agreement for <hi>PEACE.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>HIs <hi>Maiesty</hi> hath made some further <hi>Concessions</hi> touching <hi>Episcopacy</hi> and <hi>Church-government,</hi> which are to be presented to the <hi>Commissio<g ref="char:EOLhyphen"/>ners</hi>
+               <pb n="2" facs="tcp:162367:3"/>on <hi>Munday</hi> next, purporting his earnest Desires for their present Condescensions, to his last Paper tou<g ref="char:EOLhyphen"/>ching the <hi>Church,</hi> and that there may be no further de<g ref="char:EOLhyphen"/>traction of time, promising upon His Royall Word to sign the rest of the <hi>Propositions,</hi> and to give satisfac<g ref="char:EOLhyphen"/>tion to His two Houses in all things by them desi<g ref="char:EOLhyphen"/>red.</p>
+            <p>But the Commissioners proceed according to their Instructions, desiring His <hi>Majesty</hi> to give His Royall Assent for the confirming of the <hi>Presbyterian Govern<g ref="char:EOLhyphen"/>ment,</hi> and the abolishing of <hi>Bishops</hi> and <hi>Episcopacy</hi> for the future.</p>
+            <p>This motion causeth some scruple to arise from His <hi>Majesty,</hi> but after mature deliberation thereupon re<g ref="char:EOLhyphen"/>turneth a satisfactory Answer to the <hi>Commissioners,</hi> in<g ref="char:EOLhyphen"/>somuch that it is conceived, He will give His Royall Word for passing the said Bill, according to the time and manner prefixed by both Houses of <hi>Parliament:</hi> which causeth a dismall frown to proceed from the adverse party.</p>
+            <p>And His <hi>Majestie</hi> being sensible of their present dis<g ref="char:EOLhyphen"/>contents and murmurings, gave expresse Command, that <hi>proclamation</hi> should be made throughout the said Island, for the preventing of all Insurrections and com<g ref="char:EOLhyphen"/>motions during the time of the <hi>Treaty,</hi> which was ac<g ref="char:EOLhyphen"/>cordingly done.</p>
+            <p>So that there is great hopes that all Obstacles will be removed, which may prove prejudiciall to this <hi>Treaty,</hi> or frustrate the endeavours and consultation of the great Councell assembled, who are even upon the close of a finall end and Agreement.</p>
+            <pb n="3" facs="tcp:162367:3"/>
+            <p>His <hi>Maiesty</hi> saith, that He hath some few things to propound to the <hi>Commissioners,</hi> which will give great satisfaction to His two Houses, and remove all jealou<g ref="char:EOLhyphen"/>sies and fears whatsoever from amongst His liege peo<g ref="char:EOLhyphen"/>ple of <hi>England;</hi> the said <hi>Proposals</hi> are to be debated at the Councell Table, so soon as his <hi>Maiesty</hi> hath recei<g ref="char:EOLhyphen"/>ved the sense of His two Houses, to his last <hi>Concessions</hi> for abolishing of <hi>Episcopacy.</hi>
+            </p>
+            <p>We hear that there hath been a late Design com<g ref="char:EOLhyphen"/>plotting by the Enemies of <hi>Religion,</hi> against the <hi>King</hi> and <hi>Kingdom,</hi> who had conspired to raise a great army throughout the <hi>Kingdom</hi> of <hi>England,</hi> by tendering an Oath of Secresie, a Party whereof to gather to a head in the West, and severall other parts of the <hi>Kingdome</hi> for the rescuing his <hi>Maiesty</hi> from the power of the <hi>Parliament,</hi> and to bring him to <hi>London</hi> by force, if they do not condiscend to his Desires, and to put most of them to the sword. But by the divine providence of the All-seeing <hi>Iehovah,</hi> their Plot is discovered, and by his omnipotency quite frustrated and prevented.</p>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <hi>Newport</hi>
+                     <date>29. <hi>Octob.</hi> 1648.</date>
+                  </dateline>
+               </opener>
+               <head>The parliaments Votes concerning the King.</head>
+               <p>REsolved &amp;c. <hi>That that part of his Maiesties An<g ref="char:EOLhyphen"/>swer concerning the taking of the Covenant is un<g ref="char:EOLhyphen"/>satisfory.</hi> Resolved &amp;c. <hi>That that part of His Answer concerning the taking away of Arch-bishops, &amp;c. is unsa<g ref="char:EOLhyphen"/>tisfactory.</hi> Resolved &amp;c. <hi>That that part of his answer con<g ref="char:EOLhyphen"/>cerning tolleration for the Queen, is unsatisfactory.</hi> Re<g ref="char:EOLhyphen"/>solved &amp;c. <hi>That a Committee be forthwith appointed to draw up the Covenant into such a form as may be proper for his</hi> Majesty <hi>to take it.</hi> Resolved &amp;c. <hi>That that part concerning the sale of Bishops Lands is unsatisfactory.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="4" facs="tcp:162367:4"/>
+            <head>The last Weeks <hi>Journall.</hi>
+            </head>
+            <p>ON <hi>Munday</hi> last about 9 of the clock in the mor<g ref="char:EOLhyphen"/>ning his Majesty betook himself to study, and continued private in his Chamber till four in the Af<g ref="char:EOLhyphen"/>ternoon.</p>
+            <p>On <hi>Tuesday</hi> his Majesty had a conference with the Bishops and Clergy, in the privy chamber, where He propounded severall questions touching the <hi>Covenant</hi> and the <hi>Presbyterian Government,</hi> and desired to be sa<g ref="char:EOLhyphen"/>tisfied in judgment in some particulars therein contai<g ref="char:EOLhyphen"/>ned, touching the Church of <hi>England,</hi> which took up two hours dispute; and after severall disputations and arguments at the councell table, the Bishop of <hi>London</hi> made a learned Speech to his Majesty, cleering the scruples which his <hi>Maiesty</hi> stuck most at, and satisfy<g ref="char:EOLhyphen"/>ing him in other points, in relation to the Discipline of the Church, which gave great ease and content to his <hi>Maiesty;</hi> so that it is hoped there is no obstacle or let remaining in his Royall Breast, which may hinder or eclipse the glorious splendor of our ensuing and bles<g ref="char:EOLhyphen"/>sed <hi>peace.</hi>
+            </p>
+            <p>On <hi>Wednesday</hi> (being Fast Day) his <hi>Maiesty</hi> had no debate with his Counfell, but observed it with great wisdome and numility, the Bishop of <hi>London</hi> preach<g ref="char:EOLhyphen"/>ing, who made an excellent and divine prayer, for a blessing upon the <hi>Treaty,</hi> and for peace and righteous<g ref="char:EOLhyphen"/>nesse to flourish within his <hi>Maiesties</hi> Realmes and Dominions.</p>
+            <pb n="5" facs="tcp:162367:4"/>
+            <p>The Parliaments Comissioners obeserved the said day, and assembled together in the Church, where Mr. <hi>Marshall,</hi> and Mr. <hi>Vines</hi> preached, who made like<g ref="char:EOLhyphen"/>wise two excellent prayers, <hi>Humbly beseeching the great Jehovah of Heaven, who is the pure Fountain of all peace and righteousnesse, to be present amongst them, and to crown their endeavours with blessings of peace, &amp;c.</hi>
+            </p>
+            <p>On <hi>Thursday</hi> His <hi>Maiesty</hi> and his Councell met in the privy chamber, where they spent some time in de<g ref="char:EOLhyphen"/>bate about the businesse of the <hi>Church,</hi> and sent a new message to the Parliaments Commissioners, intima<g ref="char:EOLhyphen"/>ting,</p>
+            <p>That he had made some further Enlargment of his present Concessions touching the treaty, in all things that may redownd to the peace and happinesse of his people, and therefore desired them to expedite the bu<g ref="char:EOLhyphen"/>sinesse about the <hi>Church,</hi> protesting that he hath dis<g ref="char:EOLhyphen"/>penc'd with his conscience as far as possible He can in honour.</p>
+            <p>The Commissioners returned answer, that no means shall be left unattempted by them for the setling of a safe and well grounded peace, and as soon as they un<g ref="char:EOLhyphen"/>derstand the sense of both Houses touching his <hi>Maie<g ref="char:EOLhyphen"/>sties</hi> last answer to the <hi>Church,</hi> they shall with all rea<g ref="char:EOLhyphen"/>dinesse communicate the same unto his <hi>Maiesty.</hi>
+            </p>
+            <p>Some differences hath hapned between a Royalist &amp; a Parliame teer at Court, who upon words, challen<g ref="char:EOLhyphen"/>ged the field, fought, and hath mortally wounded each other.</p>
+            <closer>
+               <dateline>
+                  <hi>Newport</hi>
+                  <date>
+                     <hi>Octob.</hi> 28. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="6" facs="tcp:162367:5"/>
+            <head>The proposals and Desires of his Excellency the Lord Ge<g ref="char:EOLhyphen"/>nerall <hi>Fairfax.</hi>
+            </head>
+            <p n="1">1 That there may be allowance and provision made for 3000 Foot to be continued more then the former establishment. 2 That the Lieut. Generall, an Engineer, and some other Officers, with 20 Gunners, be added to the train. 3 That his Excellency will give command a<g ref="char:EOLhyphen"/>gainst listing any new Recruits. 4 That the Army be<g ref="char:EOLhyphen"/>ing paid off from the 15. of Jan. last, the Generall is willing that free quarter be deducted for, according to the Rules in the agreement for stating Arreares, but those entertained since Septemb. 23. which are now to be disbanded, may have their full pay. 15 That the Ar<g ref="char:EOLhyphen"/>my shall be accordingly drawn into Towns, Cities, &amp; Garrisons, and maintain themselves for a fortnight af<g ref="char:EOLhyphen"/>ter they are paid, from the 15 of January.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
